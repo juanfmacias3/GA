@@ -1,0 +1,7 @@
+Number of Ticks:	500
+Global Capacity:	300
+Tile Data file:	data.txt
+Mating Fitness Distance(BX2+CX+D):	0.05,0.2,-0.2
+Offspring by Relative Fitness(BX2+CX+D):	0.001,0.1,-5
+Mutation Rate:	0.02
+Cull by Age Probability(BX2+CX+D):	1,0,0
